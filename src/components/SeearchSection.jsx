@@ -11,7 +11,7 @@ const SeearchSection = () => {
           borderTopRightRadius: "50px",
           borderBottomLeftRadius: "50px",
           borderTopLeftRadius: "50px",
-          border: "1px solid gray",
+          border: "1px solid grey",
         }}
       ></input>
     </div>
