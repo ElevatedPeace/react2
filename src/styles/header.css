@@ -1,0 +1,12 @@
+.app-header {
+    height: 10%;
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+}
+
+.app-header-menu {
+    display: flex;
+    gap: 2rem;
+    font-size: 12px;
+}
