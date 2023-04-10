@@ -4,13 +4,13 @@ import Button from "./Button";
 import LangLinksText from "./LangLinksText";
 import LanguageLinks from "./LanguageLinks";
 import Logo from "./Logo";
-import SeearchSection from "./SeearchSection";
+import SearchSection from "./SearchSection";
 
 const SearchBar = () => {
   return (
     <div className="search">
       <Logo />
-      <SeearchSection />
+      <SearchSection />
       <div style={{ display: "flex", justifyContent: "center" }}>
         <Button buttonText={"Google Search"} />
         <Button buttonText={"I'm feeling lucky"} />
